@@ -1,10 +1,10 @@
 import fs from 'node:fs';
 
 export default {
-	name: 'bolaxd', //nama sih
-	developer: ['6285728625940', '13068016884'], //Nomor owner
+	name: 'Ndaa', //nama sih
+	developer: ['6288239928939', '6288239928939'], //Nomor owner
 	moderator: [], //Nomor mod [kalo ada]
-	browser: ['bolaxd', 'safari', '1.0.0'],
+	browser: ['NdaaBotz', 'safari', '1.0.0'],
 	longqr: 50000, // DURASI LAMA QR
 	gcbot: ['120363041493745571@g.us'], /* Only ID group */
 	thumb: 'https://telegra.ph/file/145c06fa8c8b4ee92b203.jpg',
